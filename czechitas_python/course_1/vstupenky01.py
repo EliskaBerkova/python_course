@@ -1,0 +1,5 @@
+print("Divadlo Pěst na oko")
+print("Vítejte v online rezervaci vstupenek")
+print("Pro vstup do systému je potřeba registrace")
+uzivatel = input("Uveďte své uživatelské jméno: ")
+vek = int(input("Uveďte svůj věk: "))
